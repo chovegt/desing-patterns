@@ -3,7 +3,7 @@ package behavioral
 import (
 	"fmt"
 
-	"github.com/DioCoding/desing-patterns/behavioral/strategies"
+	"github.com/DioCoding/desing-patterns/src/behavioral/strategies"
 )
 
 func ExecuteStrategyPattern() {

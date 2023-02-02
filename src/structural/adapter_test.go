@@ -3,8 +3,8 @@ package structural_test
 import (
 	"testing"
 
-	"github.com/DioCoding/desing-patterns/structural"
-	"github.com/DioCoding/desing-patterns/structural/adapter"
+	"github.com/DioCoding/desing-patterns/src/structural"
+	"github.com/DioCoding/desing-patterns/src/structural/adapter"
 	"github.com/stretchr/testify/assert"
 )
 

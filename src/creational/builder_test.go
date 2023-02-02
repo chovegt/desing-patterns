@@ -3,7 +3,7 @@ package creational
 import (
 	"testing"
 
-	"github.com/DioCoding/desing-patterns/creational/builder"
+	"github.com/DioCoding/desing-patterns/src/creational/builder"
 	"github.com/stretchr/testify/assert"
 )
 

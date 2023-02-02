@@ -3,7 +3,7 @@ package creational
 import (
 	"fmt"
 
-	"github.com/DioCoding/desing-patterns/creational/builder"
+	"github.com/DioCoding/desing-patterns/src/creational/builder"
 )
 
 func ExecuteBuilderPattern() {

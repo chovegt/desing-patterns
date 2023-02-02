@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/DioCoding/desing-patterns/behavioral"
+	"github.com/DioCoding/desing-patterns/src/behavioral"
 )
 
 func main() {

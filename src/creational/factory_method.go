@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/DioCoding/desing-patterns/creational/factorymethod"
+	"github.com/DioCoding/desing-patterns/src/creational/factorymethod"
 )
 
 var factories = map[string]factorymethod.Guns{

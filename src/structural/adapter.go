@@ -3,7 +3,7 @@ package structural
 import (
 	"fmt"
 
-	"github.com/DioCoding/desing-patterns/structural/adapter"
+	"github.com/DioCoding/desing-patterns/src/structural/adapter"
 )
 
 func NewAdapter(p adapter.Person) adapter.PersonDTO {
